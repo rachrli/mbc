@@ -9,11 +9,6 @@
       { "id": 4, "product": "ITALIAN SANGIOVESE",
         "desc": "Sangiovese grape is famous for its dry, bright cherry character", "price": 147.99 }
     ],
-    "comments": [
-      { "id": 1, "body": "like the added grape skins", "wineId": 1 },
-      { "id": 1, "body": "the directions need to be clearer", "wineId": 2 },
-      { "id": 3, "body": "I received 3 different packages of wood chips", "wineId": 1 }
-    ],
     "push_notifs": [
       { "id": 1, "body": "come get radishes!"},
       { "id": 2, "body": "lots of eggs!"},
