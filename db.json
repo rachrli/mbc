@@ -17,7 +17,8 @@
     "push_notifs": [
       { "id": 1, "body": "come get radishes!"},
       { "id": 2, "body": "lots of eggs!"},
-      { "id": 3, "body": "no more bread :("}
+      { "id": 3, "body": "no more bread :("},
+      { "id": 4, "body": "welcome to chilis"}
     ],
     "blog_posts": [
       { "id": 1, "title": "Milk Wars: What type of milk should we really be drinking?", "label": "food savvy friday", 
