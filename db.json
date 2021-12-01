@@ -26,6 +26,8 @@
       },
       { "id": 3, "title": "Federal assistance for food insecurity", "label": "news",
          "intro": "Learn about SNAP"
-      }
+      },
+        { "id": 4, "title": "fre shavocado", "label": "news", "intro": "hello"
+        }
     ]
 }
