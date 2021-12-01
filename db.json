@@ -18,5 +18,16 @@
       { "id": 1, "body": "come get radishes!"},
       { "id": 2, "body": "lots of eggs!"},
       { "id": 3, "body": "no more bread :("}
+    ],
+    "blog_posts": [
+      { "id": 1, "title": "Milk Wars: What type of milk should we really be drinking?", "label": "food savvy friday", 
+        "intro": "An analysis of the pros and cons associated with types of milk, including whole, skim, 2%, and non-dairy"
+      },
+      { "id": 2, "title": "Intuitive Eating: Tuning in to Hunger Cues", "label": "food savvy friday", 
+        "intro": "Learn about intuitive eating and how to give it a try"
+      },
+      { "id": 3, "title": "Federal assistance for food insecurity", "label": "news",
+         "intro": "Learn about SNAP"
+      }
     ]
 }
