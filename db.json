@@ -1,33 +1,70 @@
 {
-    "wines": [
-      { "id": 1, "product": "SOMMELIER SELECT",
-        "desc": "Old vine Cabernet Sauvignon", "price": 159.99 },
-      { "id": 2, "product": "MASTER VINTNER",
-        "desc": "Pinot Noir captures luscious aromas", "price": 89.99 },
-      { "id": 3, "product": "WINEMAKER'S RESERVE",
-        "desc": "Merlot featuring complex flavors of cherry", "price": 84.99 },
-      { "id": 4, "product": "ITALIAN SANGIOVESE",
-        "desc": "Sangiovese grape is famous for its dry, bright cherry character", "price": 147.99 }
+    "availabilities": [
+        {}
     ],
-    "push_notifs": [
-      { "id": 1, "body": "come get radishes!"},
-      { "id": 2, "body": "lots of eggs!"},
-      { "id": 3, "body": "no more bread :("},
-      { "id": 4, "body": "welcome to chilis"},
-      { "id": 5, "body": "look at all those chickens"},
-      { "id": 6, "body": "look ma no hands"}
+    
+    
+    "recipes": [
+        {
+            "name": "Breakfast Burritos",
+            "description": "There are a lot of variations when it comes to the Breakfast Burrito, but we’ve put together the best combination to help you start your day strong. From the savory flavors in the sausage and peppers to the warm, melted cheese, you can’t go wrong with this morning classic.",
+            "ingredients": "1/4 cup sausage or chopped pork patties (beans if vegetarian)
+            1 tbsp chopped green bell peppers
+            1 tbsp chopped red bell peppers
+            1 tbsp chopped onions (yellow or green)
+            1 tbsp oil (olive, canola, vegetable, etc)
+            1 egg
+            1 tbsp cheese
+            1 tortilla",
+            "preparation": "1. Chop and fry sausage (or beans if using) in a pan until cooked thoroughly. Drain off grease. Add green peppers and onions. Cook a few minutes more to saute vegetables.
+
+            2. Add a bit of oil and an egg to the pan and continue to cook, stirring together until the eggs are done.
+            
+            3. Put egg mixture into the center of a tortilla, then sprinkle with cheese.
+            
+            4. Roll up like a burrito, and top with desired toppings (salsa, sour cream, etc).
+            
+            Serves 1 each. Make in batches if needed.
+            "
+        }
     ],
-    "blog_posts": [
-      { "id": 1, "title": "Milk Wars: What type of milk should we really be drinking?", "label": "food savvy friday", 
-        "intro": "An analysis of the pros and cons associated with types of milk, including whole, skim, 2%, and non-dairy"
-      },
-      { "id": 2, "title": "Intuitive Eating: Tuning in to Hunger Cues", "label": "food savvy friday", 
-        "intro": "Learn about intuitive eating and how to give it a try"
-      },
-      { "id": 3, "title": "Federal assistance for food insecurity", "label": "news",
-         "intro": "Learn about SNAP"
-      },
-        { "id": 4, "title": "fre shavocado", "label": "news", "intro": "hello"
+    
+    
+    
+    "posts": [
+        {
+            "title": "Milk Wars: What type of milk should we really be drinking?",
+            "label": "Food Savvy Friday",
+            "desc": "An analysis of the pros and cons associated with types of milk, including whole, skim, 2%, and non-dairy"
+        },
+        {
+            "title": "Intuitive Eating",
+            "label": "Food Savvy Friday",
+            "desc": "Tuning into hunger cues"
+        },
+        {
+            "title": "A Macroscopic Look at Macros",
+            "label": "Food Savvy Friday",
+            "desc": ""
+        },
+        {
+            "title": "A Look at Plant-based Documentaries",
+            "label": "Food Savvy Friday",
+            "desc": "This list of six plant-based documentaries can help to enhance your perspective and inspire the food you consume."
+        }
+    ],
+
+
+
+    "announce": [
+        {
+            "text": "Come get radishes!",
+            "link": "https://mbc.studentlife.umich.edu/news/"
+        }
+        {
+            "text": "Look at all those chickens",
+            "link": "https://www.youtube.com/watch?v=NsLKQTh-Bqo"
         }
     ]
+
 }
