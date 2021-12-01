@@ -14,6 +14,7 @@
       { "id": 2, "body": "lots of eggs!"},
       { "id": 3, "body": "no more bread :("},
       { "id": 4, "body": "welcome to chilis"}
+      { "id": 5, "body": "look at all those chickens"}
     ],
     "blog_posts": [
       { "id": 1, "title": "Milk Wars: What type of milk should we really be drinking?", "label": "food savvy friday", 
