@@ -6,6 +6,7 @@
     
     "recipes": [
         {
+            "id": 1,
             "name": "Breakfast Burritos",
             "description": "There are a lot of variations when it comes to the Breakfast Burrito, but we’ve put together the best combination to help you start your day strong. From the savory flavors in the sausage and peppers to the warm, melted cheese, you can’t go wrong with this morning classic.",
             "ingredients": "1/4 cup sausage or chopped pork patties (beans if vegetarian)\n1 tbsp chopped green bell peppers\n1 tbsp chopped red bell peppers",
@@ -17,21 +18,29 @@
     
     "posts": [
         {
+            "id": 1,
+            "short": "MW",
             "title": "Milk Wars: What type of milk should we really be drinking?",
             "label": "Food Savvy Friday",
             "desc": "An analysis of the pros and cons associated with types of milk, including whole, skim, 2%, and non-dairy"
         },
         {
+            "id": 2,
+            "short": "HC",
             "title": "Intuitive Eating",
             "label": "Food Savvy Friday",
             "desc": "Tuning into hunger cues"
         },
         {
+            "id": 3,
+            "short": "MM",
             "title": "A Macroscopic Look at Macros",
             "label": "Food Savvy Friday",
             "desc": ""
         },
         {
+            "id": 4,
+            "short": "PD",
             "title": "A Look at Plant-based Documentaries",
             "label": "Food Savvy Friday",
             "desc": "This list of six plant-based documentaries can help to enhance your perspective and inspire the food you consume."
@@ -42,10 +51,12 @@
 
     "announce": [
         {
+            "id": 1,
             "text": "Come get radishes!",
             "link": "https://mbc.studentlife.umich.edu/news/"
         },
         {
+            "id": 2,
             "text": "look at all those chickens",
             "link": "https://www.youtube.com/watch?v=NsLKQTh-Bqo"
         }
