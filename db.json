@@ -24,10 +24,18 @@
             "title": "Milk Wars: What type of milk should we really be drinking?",
             "label": "Food Savvy Friday",
             "desc": "An analysis of the pros and cons associated with types of milk, including whole, skim, 2%, and non-dairy",
-            "content": {
-                "headers": ["H1","H2","H3"],
-                "text": ["paragraph 1", "paragraph 2", "paragraph 3"]
+            "content": [
+            {
+                "id": 1,
+                "header": "Header 1",
+                "text": "Paragraph 1"
+            },
+            {
+                "id": 2,
+                "header": "Header 2",
+                "text": "Pargraph 2"
             }
+        ]
         },
         {
             "id": 2,
@@ -35,10 +43,14 @@
             "title": "Intuitive Eating",
             "label": "Food Savvy Friday",
             "desc": "Tuning into hunger cues",
-            "content": {
-                "headers": ["H1","H2","H3"],
-                "text": ["paragraph 1", "paragraph 2", "paragraph 3"]
-            }        },
+            "content": [
+                {
+                    "id": 1,
+                    "header": "Header 1",
+                    "text": "Paragraph 1"
+                },
+            ]
+        }
         {
             "id": 3,
             "short": "MM",
