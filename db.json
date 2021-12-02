@@ -23,28 +23,43 @@
             "short": "MW",
             "title": "Milk Wars: What type of milk should we really be drinking?",
             "label": "Food Savvy Friday",
-            "desc": "An analysis of the pros and cons associated with types of milk, including whole, skim, 2%, and non-dairy"
+            "desc": "An analysis of the pros and cons associated with types of milk, including whole, skim, 2%, and non-dairy",
+            "content": {
+                "headers": ["H1","H2","H3"],
+                "text": ["paragraph 1", "paragraph 2", "paragraph 3"]
+            }
         },
         {
             "id": 2,
             "short": "HC",
             "title": "Intuitive Eating",
             "label": "Food Savvy Friday",
-            "desc": "Tuning into hunger cues"
-        },
+            "desc": "Tuning into hunger cues",
+            "content": {
+                "headers": ["H1","H2","H3"],
+                "text": ["paragraph 1", "paragraph 2", "paragraph 3"]
+            }        },
         {
             "id": 3,
             "short": "MM",
             "title": "A Macroscopic Look at Macros",
             "label": "Food Savvy Friday",
-            "desc": ""
+            "desc": "hi",
+            "content": {
+                "headers": ["H1","H2","H3"],
+                "text": ["paragraph 1", "paragraph 2", "paragraph 3"]
+            }
         },
         {
             "id": 4,
             "short": "PD",
             "title": "A Look at Plant-based Documentaries",
             "label": "Food Savvy Friday",
-            "desc": "This list of six plant-based documentaries can help to enhance your perspective and inspire the food you consume."
+            "desc": "This list of six plant-based documentaries can help to enhance your perspective and inspire the food you consume.",
+            "content": {
+                "headers": ["H1","H2","H3"],
+                "text": ["paragraph 1", "paragraph 2", "paragraph 3"]
+            }
         }
     ],
 
