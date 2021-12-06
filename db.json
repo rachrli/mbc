@@ -1,9 +1,4 @@
-{
-    "availabilities": [
-        {}
-    ],
-    
-    
+{   
     "recipes": [
         {
             "id": 1,
@@ -82,11 +77,6 @@
             "id": 1,
             "text": "Come get radishes!",
             "link": "https://mbc.studentlife.umich.edu/news/"
-        },
-        {
-            "id": 2,
-            "text": "look at all those chickens",
-            "link": "https://www.youtube.com/watch?v=NsLKQTh-Bqo"
         }
     ]
 
