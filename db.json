@@ -41,8 +41,18 @@
             "content": [
                 {
                     "id": 1,
-                    "header": "Header 1",
-                    "text": "Paragraph 1"
+                    "header": "WHAT IS INTUITIVE EATING?",
+                    "text": "Intuitive eating involves paying attention to how we feel before, during and after we eat. The things we should focus on when tuning in to our bodies include:\n1. Eating when you get hungry and stopping when you feel satisfied. \n2. Eating foods you enjoy, everything from vegetables to desserts. \n3. Making choices to nourish your body just as it is."
+                },
+                {
+                    "id": 2,
+                    "header": "WHAT ARE THE BENEFITS?",
+                    "text": "Studies show that eating intuitively can help promote positive body image and reduce disordered eating while also improving overall health. Listening to your body can seem weird at first, so here are a few ways to try out intuitive eating on your own: \nBefore you sit down to eat, check in with yourself. How hungry are you on a scale of 1-10?\nEnjoy your food as you eat it. Try to pay attention to how satisfied you feel.\nIf you find yourself feeling satisfied, give yourself permission to stop eating. Even though we were told to clean our plates as children, it’s common to accidentally get too much food when loading up your plate.\nIf you still feel hungry after finishing a meal or snack, give yourself permission to eat something else.\nPack a few extra snacks in your backpack and, if you find yourself feeling hungry between meals, know that you can eat a snack and that’s okay.\nOur bodies need energy to move, study, think, socialize, and even just exist. Hunger is not bad—it’s just our bodies saying we probably need some more energy. Try out a few of these tips to get reconnected with your body and hunger."
+                },
+                {
+                    "id":3,
+                    "header": "SOURCES",
+                    "text": "Bruce LJ, Ricciardelli LA. A systematic review of the psychosocial correlates of intuitive eating among adult women. Appetite. 2016 Jan 1;96:454-472. doi: 10.1016/j.appet.2015.10.012.\nSteven Hawks EdD, MBA, CHES, Ray M. Merrill PhD, MPH & Hala N. Madanat (2004) The Intuitive Eating Scale: Development and Preliminary Validation, American Journal of Health Education, 35:2, 90-99, DOI: 10.1080/19325037.2004.10603615\nVan Dyke N, Drinkwater EJ. Relationships between intuitive eating and health indicators: literature review. Public Health Nutr. 2014 Aug;17(8):1757-66. doi: 10.1017/S1368980013002139."
                 }
             ]
         },
@@ -79,5 +89,4 @@
             "link": "https://mbc.studentlife.umich.edu/news/"
         }
     ]
-
 }
