@@ -8,6 +8,16 @@
             "ingredientList": [
                 {"id":"1/4 cup sausage"},{"id": "1 tbsp chopped green bell peppers"},{"id": "1 tbsp choped red bell pepper"}],
             "preparation": "1. Chop and fry sausage (or beans if using) in a pan until cooked thoroughly. Drain off grease. Add green peppers and onions. Cook a few minutes more to saute vegetables.\n\n2. Add a bit of oil and an egg to the pan and continue to cook, stirring together until the eggs are done."
+        },
+        {
+            "id": 2,
+            "name": "Macaroni Pasta Salad with Tuna",
+            "description": "Lentils",
+            "image": "https://mbc.studentlife.umich.edu/wp-content/uploads/2020/07/AB100384-1024x682.jpg",
+            "ingredientList": [
+                {"id": "macaroni"},{"id":"2 hardboiled eggs"}
+            ],
+            "preparation": "1. Cook macaroni.\n\n2. Mix"
         }
     ],   
     "posts": [
