@@ -4,10 +4,11 @@
             "id": 1,
             "name": "Breakfast Burritos",
             "description": "There are a lot of variations when it comes to the Breakfast Burrito, but we’ve put together the best combination to help you start your day strong. From the savory flavors in the sausage and peppers to the warm, melted cheese, you can’t go wrong with this morning classic.",
+            "image": "https://mbc.studentlife.umich.edu/wp-content/uploads/2020/07/AB100372-1024x683.jpg",
             "ingredientList": [
                 {"id":"1/4 cup sausage"},{"id": "1 tbsp chopped green bell peppers"},{"id": "1 tbsp choped red bell pepper"}],
             "ingredients": "1/4 cup sausage or chopped pork patties (beans if vegetarian)\n1 tbsp chopped green bell peppers\n1 tbsp chopped red bell peppers",
-            "preparation": "1. Chop and fry sausage (or beans if using) in a pan until cooked thoroughly. Drain off grease. Add green peppers and onions. Cook a few minutes more to saute vegetables.\n2. Add a bit of oil and an egg to the pan and continue to cook, stirring together until the eggs are done."
+            "preparation": "1. Chop and fry sausage (or beans if using) in a pan until cooked thoroughly. Drain off grease. Add green peppers and onions. Cook a few minutes more to saute vegetables.\n\n2. Add a bit of oil and an egg to the pan and continue to cook, stirring together until the eggs are done."
         }
     ],
     
