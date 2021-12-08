@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Breakfast Burritos",
             "description": "There are a lot of variations when it comes to the Breakfast Burrito, but we’ve put together the best combination to help you start your day strong. From the savory flavors in the sausage and peppers to the warm, melted cheese, you can’t go wrong with this morning classic.",
-            "ingredient_list": ["1/4 cup sausage", "1 tbsp chopped green bell peppers", "1 tbsp choped red bell pepper"],
+            "ingredientList": ["1/4 cup sausage", "1 tbsp chopped green bell peppers", "1 tbsp choped red bell pepper"],
             "ingredients": "1/4 cup sausage or chopped pork patties (beans if vegetarian)\n1 tbsp chopped green bell peppers\n1 tbsp chopped red bell peppers",
             "preparation": "1. Chop and fry sausage (or beans if using) in a pan until cooked thoroughly. Drain off grease. Add green peppers and onions. Cook a few minutes more to saute vegetables.\n2. Add a bit of oil and an egg to the pan and continue to cook, stirring together until the eggs are done."
         }
@@ -15,27 +15,25 @@
     "posts": [
         {
             "id": 1,
-            "short": "MW",
             "title": "Milk Wars: What type of milk should we really be drinking?",
             "label": "Food Savvy Friday",
             "desc": "An analysis of the pros and cons associated with types of milk, including whole, skim, 2%, and non-dairy",
             "content": [
             {
                 "id": 1,
-                "header": "Header 1",
-                "text": "Paragraph 1"
+                "header": "",
+                "text": "At most coffee shops we’re faced with the question: what milk would you like with that? When I was in high school I didn’t think twice about it and responded, “whatever you have.” Now as a student studying nutrition, I’ve started thinking more about the various types of milk and their unique health offerings. Should I drink the trendy, plant-based kinds of milk, or stick with tried-and-true cow’s milk? That’s why today I will be diving into the world of milk, analyzing the pros and cons of whole, skim, 2%, and non-dairy alternatives."
             },
             {
                 "id": 2,
-                "header": "Header 2",
+                "header": "WHOLE",
                 "text": "Pargraph 2"
             }
             ]
         },
         {
             "id": 2,
-            "short": "HC",
-            "title": "Intuitive Eating",
+            "title": "INTUITIVE EATING",
             "label": "Food Savvy Friday",
             "desc": "Tuning into hunger cues",
             "content": [
@@ -58,7 +56,6 @@
         },
         {
             "id": 3,
-            "short": "MM",
             "title": "A Macroscopic Look at Macros",
             "label": "Food Savvy Friday",
             "desc": "hi",
@@ -69,7 +66,6 @@
         },
         {
             "id": 4,
-            "short": "PD",
             "title": "A Look at Plant-based Documentaries",
             "label": "Food Savvy Friday",
             "desc": "This list of six plant-based documentaries can help to enhance your perspective and inspire the food you consume.",
