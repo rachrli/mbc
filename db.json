@@ -19,6 +19,7 @@
             "title": "Milk Wars: What type of milk should we really be drinking?",
             "label": "Food Savvy Friday",
             "desc": "An analysis of the pros and cons associated with types of milk, including whole, skim, 2%, and non-dairy",
+            "image": "https://mbc.studentlife.umich.edu/wp-content/uploads/2021/11/Milk-Wars-MBC-Blog-Photo.jpg",
             "content": [
             {
                 "id": 1,
@@ -37,6 +38,7 @@
             "title": "INTUITIVE EATING",
             "label": "Food Savvy Friday",
             "desc": "Tuning into hunger cues",
+            "image": "https://mbc.studentlife.umich.edu/wp-content/uploads/2021/11/Intuitive-Eating-MBC-Post.jpg",
             "content": [
                 {
                     "id": 1,
@@ -59,6 +61,7 @@
             "id": 3,
             "title": "A MACROSCOPIC LOOK AT MACROS",
             "label": "Food Savvy Friday",
+            "image": "https://mbc.studentlife.umich.edu/wp-content/uploads/2021/10/Macros-MBC-Blog-Photo-Template.jpg",
             "desc": "Are fats good or bad for me? How much protein should I be getting? Should I be cutting out carbs? When it comes to the topic of macronutrients, there’s often a lot of confusion. And with so many misconceptions in society today, it’s important to understand what macronutrients really are and how they work together to keep the body functioning as it should.",
             "content": [
                 {
